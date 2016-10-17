@@ -1,0 +1,13 @@
+/obj
+/bin/*
+!/bin/data/*
+*.opensdf
+*.sdf
+*.suo
+/Library
+/Temp
+/Assets/UnityVS.meta
+/Assets/UnityVS/Editor
+/Assets/UnityVS/Editor.meta
+/NuSkin.CSharp.*
+/NuSkin.sln
