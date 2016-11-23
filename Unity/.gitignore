@@ -9,5 +9,5 @@
 /Assets/UnityVS.meta
 /Assets/UnityVS/Editor
 /Assets/UnityVS/Editor.meta
-/NuSkin.CSharp.*
-/NuSkin.sln
+/*.CSharp.*
+/*.sln
